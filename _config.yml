@@ -23,7 +23,7 @@ repository               : "liuxc2005/liuxc2005.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myPhoto.jpg" # filename of avatar image placed in /images/ for the author profile section
   name             : "Xinchen Liu"
   pronouns         : # example: "she/her"  
   bio              : "Bachelor Student at Virginia Tech studying Computer Engineering/ He/him."
